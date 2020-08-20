@@ -77,4 +77,8 @@ for i in range(size):
     print(arr[i])
 print("---%s sec---"%(time.time()-start_time))
 
+<<<<<<< Updated upstream
 print("Testing Rishav")
+=======
+print("Pushing to Master branch")
+>>>>>>> Stashed changes
