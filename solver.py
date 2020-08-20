@@ -77,3 +77,4 @@ for i in range(size):
     print(arr[i])
 print("---%s sec---"%(time.time()-start_time))
 
+print(5)
